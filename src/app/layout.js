@@ -3,8 +3,8 @@ import Header from "../../components/Header/Header";
 import "./globals.css";
 
 export const metadata = {
-  title: "Assignment - Reposnive Web Page using NextJs ",
-  description: "Responsive web page design using HTML, CSS, Bootstrap, NextJS",
+  title: "Assignment - Responsive Web Page Using NextJs ",
+  description: "Responsive web page design using HTML, CSS, Bootstrap, NextJS, React Bootstrap",
 };
 
 export default function RootLayout({ children }) {
